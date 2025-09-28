@@ -6,7 +6,7 @@ class Vehiculos():
         self.acelera = False
         self.frena = False
 
-    def arrancar(self):  # corregido: antes tenías arracar
+    def arrancar(self):  
         self.enMarcha = True
 
     def acelerar(self):

@@ -26,7 +26,7 @@ class Coche():
         else:
             return "El coche esta parado"
 
-        #pass  aparece por defecto. Al crear el metodo borrar.
+        #pass  aparece por defecto. Al crear el metodo. 
         
     def estado(self): 
         print("El coche tiene: ",self.__ruedas, 
